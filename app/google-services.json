@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "286179906169",
+    "firebase_url": "https://mindthewall-6f65d.firebaseio.com",
+    "project_id": "mindthewall-6f65d",
+    "storage_bucket": "mindthewall-6f65d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286179906169:android:8e939ade7d77f6aa847aa8",
+        "android_client_info": {
+          "package_name": "com.shreekant.karn.mindthewall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286179906169-uklm7ifb3lhm7plkll47c8q59lggrao5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shreekant.karn.mindthewall",
+            "certificate_hash": "285f4b9c34b406e91103797210b3f642ed4347de"
+          }
+        },
+        {
+          "client_id": "286179906169-1d9nb7l7mjjgt0pcmjc0rn0mktk6a4qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj2ZpY70X_Nd4qYKlFwR72jKhgNBMlNgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286179906169-1d9nb7l7mjjgt0pcmjc0rn0mktk6a4qv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
